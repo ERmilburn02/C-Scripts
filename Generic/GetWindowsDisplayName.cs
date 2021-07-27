@@ -2,6 +2,8 @@
 // Code tested on .NET Core 6.0.0-preview.6.21353.1
 // Requires package System.DirectoryServices
 
+// Code from https://stackoverflow.com/a/3687647 (Delphi) and https://stackoverflow.com/a/7826177 (.NET Conversion)
+
 using System;
 using System.Text;
 using System.Net;
